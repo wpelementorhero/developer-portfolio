@@ -40,3 +40,13 @@ body {
 .right-content img {
   width: 100%;
 }
+
+/* Dream Big Seciton CSS */
+.section-reverse {
+  flex-direction: row-reverse;
+}
+.dream-big {
+  background-image: url(images/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: center right;
+}
