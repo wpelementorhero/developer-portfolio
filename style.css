@@ -15,6 +15,7 @@ body {
 .flexiable-container {
   display: flex;
   gap: 5%;
+  align-items: center;
 }
 .welcome-section {
   background-image: url(images/top-banner.png);
